@@ -31,6 +31,8 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+.server\node_modules/
+/.node_modules
 
 # Web related
 lib/generated_plugin_registrant.dart
